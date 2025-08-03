@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjetDevza\\HahnWebApidevza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.api\\hahnwebapidevza.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|solutionrelative:hahnwebapidevza.api\\hahnwebapidevza.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|solutionrelative:hahnwebapidevza.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|solutionrelative:hahnwebapidevza.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.application\\features\\products\\handlers\\deleteproducthandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|solutionrelative:hahnwebapidevza.application\\features\\products\\handlers\\deleteproducthandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.application\\features\\products\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|solutionrelative:hahnwebapidevza.application\\features\\products\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.application\\features\\products\\handlers\\updateproducthandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|solutionrelative:hahnwebapidevza.application\\features\\products\\handlers\\updateproducthandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.domain\\events\\productdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|solutionrelative:hahnwebapidevza.domain\\events\\productdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.domain\\events\\productupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|solutionrelative:hahnwebapidevza.domain\\events\\productupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.domain\\events\\productcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|solutionrelative:hahnwebapidevza.domain\\events\\productcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.application\\validators\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|solutionrelative:hahnwebapidevza.application\\validators\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.api\\hahnwebapidevza.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|solutionrelative:hahnwebapidevza.api\\hahnwebapidevza.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.application\\validators\\updateproductcommandvalidator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|solutionrelative:hahnwebapidevza.application\\validators\\updateproductcommandvalidator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|solutionrelative:hahnwebapidevza.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.application\\features\\products\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|solutionrelative:hahnwebapidevza.application\\features\\products\\commands\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.application\\features\\products\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|solutionrelative:hahnwebapidevza.application\\features\\products\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.application\\features\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|solutionrelative:hahnwebapidevza.application\\features\\products\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAD1475-9520-4610-A5A7-8AB82792F104}|HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.infrastructure\\hahnwebapidevza.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAAD1475-9520-4610-A5A7-8AB82792F104}|HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj|solutionrelative:hahnwebapidevza.infrastructure\\hahnwebapidevza.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.application\\features\\products\\handlers\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC9988-E0CF-41C7-91DE-F1A7C973406B}|HahnWebApidevza.Application\\HahnWebApidevza.Application.csproj|solutionrelative:hahnwebapidevza.application\\features\\products\\handlers\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02A2C97-1ED5-4AD1-A6F5-07E0EBE1F0A2}|HahnWebApidevza.Domain\\HahnWebApidevza.Domain.csproj|solutionrelative:hahnwebapidevza.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|solutionrelative:hahnwebapidevza.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAD1475-9520-4610-A5A7-8AB82792F104}|HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.infrastructure\\persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAD1475-9520-4610-A5A7-8AB82792F104}|HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj|solutionrelative:hahnwebapidevza.infrastructure\\persistence\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAD1475-9520-4610-A5A7-8AB82792F104}|HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAD1475-9520-4610-A5A7-8AB82792F104}|HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj|solutionrelative:hahnwebapidevza.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|d:\\projetdevza\\hahnwebapidevza\\hahnwebapidevza.api\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0251DB1-5D84-4AF1-8D92-D50F33403167}|HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj|solutionrelative:hahnwebapidevza.api\\controllers\\examplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\Program.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Api\\Program.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\Program.cs",
+              "RelativeToolTip": "HahnWebApidevza.Api\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:37:11.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Api\\appsettings.json",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\appsettings.json",
+              "RelativeToolTip": "HahnWebApidevza.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-03T15:14:47.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HahnWebApidevza.Api",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj",
+              "RelativeToolTip": "HahnWebApidevza.Api\\HahnWebApidevza.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T16:05:53.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteProductHandler .cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Handlers\\DeleteProductHandler .cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Application\\Features\\Products\\Handlers\\DeleteProductHandler .cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Handlers\\DeleteProductHandler .cs",
+              "RelativeToolTip": "HahnWebApidevza.Application\\Features\\Products\\Handlers\\DeleteProductHandler .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:45:46.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Handlers\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Application\\Features\\Products\\Handlers\\CreateProductHandler.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Handlers\\CreateProductHandler.cs",
+              "RelativeToolTip": "HahnWebApidevza.Application\\Features\\Products\\Handlers\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:44:32.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductHandler .cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Handlers\\UpdateProductHandler .cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Application\\Features\\Products\\Handlers\\UpdateProductHandler .cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Handlers\\UpdateProductHandler .cs",
+              "RelativeToolTip": "HahnWebApidevza.Application\\Features\\Products\\Handlers\\UpdateProductHandler .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:45:35.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDeletedEvent.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Events\\ProductDeletedEvent.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Domain\\Events\\ProductDeletedEvent.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Events\\ProductDeletedEvent.cs",
+              "RelativeToolTip": "HahnWebApidevza.Domain\\Events\\ProductDeletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:15:49.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductUpdatedEvent.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Events\\ProductUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Domain\\Events\\ProductUpdatedEvent.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Events\\ProductUpdatedEvent.cs",
+              "RelativeToolTip": "HahnWebApidevza.Domain\\Events\\ProductUpdatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:15:35.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Validators\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Application\\Validators\\CreateProductCommandValidator.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Validators\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "HahnWebApidevza.Application\\Validators\\CreateProductCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:08:16.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductCreatedEvent.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Events\\ProductCreatedEvent.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Domain\\Events\\ProductCreatedEvent.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Events\\ProductCreatedEvent.cs",
+              "RelativeToolTip": "HahnWebApidevza.Domain\\Events\\ProductCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:04:42.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HahnWebApidevza.Api.http",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\HahnWebApidevza.Api.http",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Api\\HahnWebApidevza.Api.http",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\HahnWebApidevza.Api.http",
+              "RelativeToolTip": "HahnWebApidevza.Api\\HahnWebApidevza.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-03T15:36:17.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProductCommandValidator .cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Validators\\UpdateProductCommandValidator .cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Application\\Validators\\UpdateProductCommandValidator .cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Validators\\UpdateProductCommandValidator .cs",
+              "RelativeToolTip": "HahnWebApidevza.Application\\Validators\\UpdateProductCommandValidator .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:08:58.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "HahnWebApidevza.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:57:20.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Commands\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Application\\Features\\Products\\Commands\\DeleteProductCommand.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Commands\\DeleteProductCommand.cs",
+              "RelativeToolTip": "HahnWebApidevza.Application\\Features\\Products\\Commands\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:44:09.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Commands\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Application\\Features\\Products\\Commands\\UpdateProductCommand.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Commands\\UpdateProductCommand.cs",
+              "RelativeToolTip": "HahnWebApidevza.Application\\Features\\Products\\Commands\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:43:55.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Application\\Features\\Products\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "HahnWebApidevza.Application\\Features\\Products\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:42:53.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HahnWebApidevza.Infrastructure",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj",
+              "RelativeToolTip": "HahnWebApidevza.Infrastructure\\HahnWebApidevza.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T16:10:00.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllProductsHandler.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Handlers\\GetAllProductsHandler.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Application\\Features\\Products\\Handlers\\GetAllProductsHandler.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Application\\Features\\Products\\Handlers\\GetAllProductsHandler.cs",
+              "RelativeToolTip": "HahnWebApidevza.Application\\Features\\Products\\Handlers\\GetAllProductsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:50:31.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "HahnWebApidevza.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:35:55.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "HahnWebApidevza.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:35:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "HahnWebApidevza.Infrastructure\\Persistence\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:57:58.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "HahnWebApidevza.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:52:07.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExampleController.cs",
+              "DocumentMoniker": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\Controllers\\ExampleController.cs",
+              "RelativeDocumentMoniker": "HahnWebApidevza.Api\\Controllers\\ExampleController.cs",
+              "ToolTip": "D:\\ProjetDevza\\HahnWebApidevza\\HahnWebApidevza.Api\\Controllers\\ExampleController.cs",
+              "RelativeToolTip": "HahnWebApidevza.Api\\Controllers\\ExampleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T15:27:29.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@HahnWebApidevza.Api_HostAddress = http://localhost:5069
+
+GET {{HahnWebApidevza.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

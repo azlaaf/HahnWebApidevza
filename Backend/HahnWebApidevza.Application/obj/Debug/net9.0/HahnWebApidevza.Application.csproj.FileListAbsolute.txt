@@ -1,0 +1,15 @@
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\bin\Debug\net9.0\HahnWebApidevza.Application.deps.json
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\bin\Debug\net9.0\HahnWebApidevza.Application.dll
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\bin\Debug\net9.0\HahnWebApidevza.Application.pdb
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\bin\Debug\net9.0\HahnWebApidevza.Domain.dll
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\bin\Debug\net9.0\HahnWebApidevza.Domain.pdb
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\HahnWebApidevza.Application.csproj.AssemblyReference.cache
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\HahnWebApidevza.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\HahnWebApidevza.Application.AssemblyInfoInputs.cache
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\HahnWebApidevza.Application.AssemblyInfo.cs
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\HahnWebApidevza.Application.csproj.CoreCompileInputs.cache
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\HahnWebA.1D4B5316.Up2Date
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\HahnWebApidevza.Application.dll
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\refint\HahnWebApidevza.Application.dll
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\HahnWebApidevza.Application.pdb
+D:\ProjetDevza\HahnWebApidevza\HahnWebApidevza.Application\obj\Debug\net9.0\ref\HahnWebApidevza.Application.dll
